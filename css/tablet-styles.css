@@ -224,4 +224,24 @@
   .sub-input {
     width: 264px;
   }
+
+  /**-----------------MENU BUTTON-----------------*/
+
+  .section-portfoloi {
+    padding-top: 64px;
+    padding-bottom: 96px;
+  }
+
+  .btn-list {
+    justify-content: center;
+  }
+
+  .gallery-list {
+    column-gap: 24px;
+    justify-content: start;
+  }
+
+  .gallery-item {
+    width: calc((100% - 24px) / 2);
+  }
 }

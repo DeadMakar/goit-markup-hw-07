@@ -53,6 +53,14 @@
     }
   }
 
+  .headline {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+
+    max-width: 496px;
+  }
+
   /**-----------OUR PRINCIPLES AND PRIORITIES-----------*/
 
   .section-principles {
@@ -159,4 +167,18 @@
 
     background: var(--title-color);
   }
+
+  /**-----------------MENU BUTTON-----------------*/
+
+  .section-portfoloi {
+    padding-top: 100px;
+    padding-bottom: 120px;
+  }
+
+  .btn-list {
+    margin-bottom: 72px;
+  }
+
+  .gallery-item {
+    width: calc((100% - 48px) / 3);
 }
