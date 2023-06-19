@@ -18,6 +18,10 @@
     display: block;
     padding-top: 24px;
     padding-bottom: 24px;
+    font-size: 16px;
+line-height: var(--tipical-line-height);
+letter-spacing: 0.02em;
+color: #434455;
   }
 
   /**------------------HERO------------------*/
