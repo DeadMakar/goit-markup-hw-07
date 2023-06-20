@@ -278,9 +278,7 @@ img {
 }
 .mob-soc-list {
   display: flex;
-  gap: 16px;
-  align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 .mob-soc-item {
   width: 40px;
