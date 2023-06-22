@@ -696,10 +696,7 @@ img {
   padding-top: 48px;
   padding-bottom: 48px;
 }
-.filter-title {
-}
-.btn-container {
-}
+
 .btn-list {
   display: flex;
   justify-content: flex-start;
@@ -708,8 +705,6 @@ img {
   flex-wrap: wrap;
   row-gap: 16px;
   column-gap: 24px;
-}
-.btn-item {
 }
 
 .btn-portfolio {
@@ -747,8 +742,7 @@ img {
 
 /**-----------------OUR GALLERY-----------------*/
 
-.gallery-container {
-  display: flex;
+.section-portfolio {
   padding-bottom: 120px;
 }
 .gallery-list {

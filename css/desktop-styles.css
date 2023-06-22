@@ -115,8 +115,6 @@ color: #434455;
     display: flex;
     padding-bottom: 120px;
   }
-  .product-container {
-  }
   .body-title {
     margin-bottom: 72px;
 
@@ -172,9 +170,9 @@ color: #434455;
     background: var(--title-color);
   }
 
-  /**-----------------MENU BUTTON-----------------*/
+  /**-----------------OUR GALLERY-----------------*/
 
-  .section-portfoloi {
+  .section-portfolio {
     padding-top: 100px;
     padding-bottom: 120px;
   }
